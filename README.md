@@ -1,6 +1,6 @@
 # 👋Hello, I'm Isaac!
 <a href="https://linkedin.com/in/i-do"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-<a href="[https://linkedin.com/in/i-do](https://tryhackme.com/p/isaacdo)"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=flat-square&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/isaacdo"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=flat-square&logo=TryHackMe&logoColor=white" /></a>
 
 
 I’m a 4th-year undergraduate student with a strong foundation in IT and a growing focus on cybersecurity. My experience spans technical support, network administration, and security automation, which has shaped my interest in defending systems against real-world threats. I enjoy investigating problems, identifying patterns, and implementing practical solutions that improve security posture.
