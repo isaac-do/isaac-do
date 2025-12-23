@@ -8,7 +8,7 @@ My goal is to build expertise in threat detection, incident response, and networ
 
 ## Projects
 - [Cybersecurity Home Lab](https://github.com/isaac-do/Cybersecurity-Home-Lab)
-- [Terrform Azure Web App Infrastructure](https://github.com/isaac-do/Terraform-Azure-Web-App-Infrastructure)
+- [Terraform Azure Web App Infrastructure](https://github.com/isaac-do/Terraform-Azure-Web-App-Infrastructure)
 
 ## Tech Stack
 <div>
