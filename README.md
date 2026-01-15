@@ -4,7 +4,7 @@
 
 
 I’m a 4th-year undergraduate student with a strong foundation in IT and a growing focus on cybersecurity. My experience spans technical support, network administration, and security automation, which has shaped my interest in defending systems against real-world threats. I enjoy investigating problems, identifying patterns, and implementing practical solutions that improve security posture.<br/><br/>
-My goal is to build expertise in threat detection, incident response, and network defense while growing into a security professional who strengthens organizational resilience against evolving cyber threats.
+My goal is to build expertise in digital forensics, incident response, and network defense while growing into a security professional who strengthens organizational resilience against evolving cyber threats.
 
 ## Projects
 - [Cybersecurity Home Lab](https://github.com/isaac-do/Cybersecurity-Home-Lab)
@@ -41,8 +41,9 @@ My goal is to build expertise in threat detection, incident response, and networ
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-ISC2%20CC-00693E?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2%20CC-00693E?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCST%20Networking-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
