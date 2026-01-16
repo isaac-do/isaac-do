@@ -8,7 +8,7 @@ My goal is to build expertise in digital forensics, incident response, and netwo
 
 ## Projects
 - [Cybersecurity Home Lab](https://github.com/isaac-do/Cybersecurity-Home-Lab)
-- [Azure Honeypot Lab](https://github.com/isaac-do/Azure-Honeypot-Lab)
+- [Azure Honeypot Environment](https://github.com/isaac-do/Azure-Honeypot-Environment)
 - [Terraform Azure Web App Infrastructure](https://github.com/isaac-do/Terraform-Azure-Web-App-Infrastructure)
 
 ## Tech Stack
