@@ -42,6 +42,8 @@ My goal is to build expertise in digital forensics, incident response, and netwo
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20CySA+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSA%20CCSK-00AEEF?&style=for-the-badge&logo=icloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2%20CC-00693E?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCST%20Networking-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
