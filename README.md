@@ -3,8 +3,8 @@
 <a href="https://tryhackme.com/p/isaacdo"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=flat-square&logo=TryHackMe&logoColor=white" /></a>
 
 
-I’m a 4th-year undergraduate student with a strong foundation in IT and a growing focus on cybersecurity. My experience spans technical support, network administration, and security automation, which has shaped my interest in defending systems against real-world threats. I enjoy investigating problems, identifying patterns, and implementing practical solutions that improve security posture.<br/><br/>
-My goal is to build expertise in digital forensics, incident response, and network defense while growing into a security professional who strengthens organizational resilience against evolving cyber threats.
+I am a senior at the University of Texas at Dallas pursuing a Bachelor's in Software Engineering with a strong foundation in IT and a focused interest in cyber defense. My experience spans technical support, network administration, and security automation, where I have worked on hardening systems, vulnerability remediation, and improving operational security.<br/><br/>
+I am interested in digital forensics, and incident response, and I enjoy analyzing system artifacts and log data to identify patterns and support incident response efforts. My goal is to deepen my expertise in digital forensics and continue strengthening my investigative skills.
 
 ## Projects
 - [Cybersecurity Home Lab](https://github.com/isaac-do/Cybersecurity-Home-Lab)
