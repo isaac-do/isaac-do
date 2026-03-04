@@ -1,6 +1,6 @@
 # 👋Hello, I'm Isaac!
 <a href="https://linkedin.com/in/i-do"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-<a href="https://tryhackme.com/p/isaacdo"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=flat-square&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/goldphish"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=flat-square&logo=TryHackMe&logoColor=white" /></a>
 
 
 I am a senior at the University of Texas at Dallas pursuing a Bachelor's in Software Engineering with a strong foundation in IT and a focused interest in cyber defense. My experience spans technical support, network administration, and security automation, where I have worked on hardening systems, vulnerability remediation, and improving operational security.<br/><br/>
