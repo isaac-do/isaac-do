@@ -11,6 +11,9 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
 - [Azure Honeypot Environment](https://github.com/isaac-do/Azure-Honeypot-Environment)
 - [Terraform Azure Web App Infrastructure](https://github.com/isaac-do/Terraform-Azure-Web-App-Infrastructure)
 
+## CTF Challenges
+- [CTF Writeups](https://github.com/isaac-do/ctf-writeups)
+
 ## Tech Stack
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -27,7 +30,7 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
     
 </div>
 <div>
-    <img src="https://img.shields.io/badge/-Security%20Onion-5E97B6?&style=for-the-badge&logo=SecurityOnionSolutions&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-Security%20Onion-5E97B6?&style=for-the-badge&logo=SecurityOnionSolutions&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-ManageEngine%20Endpoint%20Central-FFB100?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-0054A6?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -41,8 +44,8 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA%20CySA+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSA%20CCSK-00AEEF?&style=for-the-badge&logo=icloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2%20CC-00693E?&style=for-the-badge&logo=ISC2&logoColor=white" />
