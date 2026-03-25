@@ -34,6 +34,9 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
     <img src="https://img.shields.io/badge/-ManageEngine%20Endpoint%20Central-FFB100?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-0054A6?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+        <img src="https://img.shields.io/badge/FTK%20Imager-003A8F?style=for-the-badge&logo=FTK%20Imager&logoColor=white" />
+    <img src="https://img.shields.io/badge/Volatility3-4B0082?style=for-the-badge&logo=Volatility3&logoColor=white" />
+    <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&logo=KAPE&logoColor=white" />
 </div>
 <div>
     <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" />
