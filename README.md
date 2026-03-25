@@ -24,7 +24,7 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
     <img src="https://img.shields.io/badge/oracle%20sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
-## Security Tools
+## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wazuh%20SIEM-0054A6?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -34,24 +34,10 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
     <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&logo=KAPE&logoColor=white" />
     <img src="https://img.shields.io/badge/Tenable%20Nessus-00A3E0?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-ManageEngine%20Endpoint%20Central-FFB100?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-## Networking Tools
-<div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Meraki-6EC72D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
-</div>
-
-## Environments
-<div>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" />
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## Certifications
