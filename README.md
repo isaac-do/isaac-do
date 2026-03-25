@@ -26,7 +26,6 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
     <!--<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />-->
     <img src="https://img.shields.io/badge/-Cisco%20Meraki-6EC72D?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailscale-000000?&style=for-the-badge&logo=Tailscale&logoColor=white" />
     
 </div>
 <div>
