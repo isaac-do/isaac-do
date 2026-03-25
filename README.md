@@ -14,33 +14,43 @@ I am interested in digital forensics, and incident response, and I enjoy analyzi
 ## CTF Challenges
 - [CTF Writeups](https://github.com/isaac-do/ctf-writeups)
 
-## Tech Stack
+## Languages/Scripting
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/kql-005571?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <!--<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />-->
-    <img src="https://img.shields.io/badge/-Cisco%20Meraki-6EC72D?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/oracle%20sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
+
+## Security Tools
 <div>
-    <!-- <img src="https://img.shields.io/badge/-Security%20Onion-5E97B6?&style=for-the-badge&logo=SecurityOnionSolutions&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-ManageEngine%20Endpoint%20Central-FFB100?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-0054A6?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh%20SIEM-0054A6?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-        <img src="https://img.shields.io/badge/FTK%20Imager-003A8F?style=for-the-badge&logo=FTK%20Imager&logoColor=white" />
-    <img src="https://img.shields.io/badge/Volatility3-4B0082?style=for-the-badge&logo=Volatility3&logoColor=white" />
+    <img src="https://img.shields.io/badge/FTK%20Imager-003A8F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Volatility3-F80000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velociraptor-2E8B57?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tenable%20Nessus-00A3E0?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-ManageEngine%20Endpoint%20Central-FFB100?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
+## Networking Tools
 <div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Meraki-6EC72D?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
+</div>
+
+## Environments
+<div>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" />
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
